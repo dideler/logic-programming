@@ -1,0 +1,43 @@
+2. Unification.
+Do the following expressions unify? If so, give their variable substitutions. If not, indicate why. Work them out by hand, and verify your answers in Prolog (or vice versa).
+
+(a) 100 = 5*5
+No, because the structures (on the LHS & RHS) do not match up.
+
+(b) 100=10*10
+No, same reason as (a). Using "is" would make it work though.
+
+(c) Apples = oranges
+Yes, because Apples is a variable (starts with uppercase) thus it can take the form of oranges:
+Apples = oranges.
+
+(d) struct(A, b(C, d), e) = struct(X, X, Y)
+Yes, because the variable X cannot take two different forms at once, the variable A will take the form of what X takes, and then Y takes the form of the constant e.
+Thus, A = b(C, d),
+      X = b(C, d),
+      Y = e
+
+(e) [1, 2, 3] = [First | Last]
+Yes, First = 1, Last = [2, 3]
+
+(f) [1 | [2, 3]] = [Last | First]
+Yes, Last = 1, First = [2, 3]
+
+(g) hello(this, Is, Odd25) = hello(This, is)
+No, number of arguments do not match up.
+
+(h) [1, Y, 3] = [A|B],  25 = Y.
+Yes, A = 1, B = [Y,3], Y = 25, thus it will appear as Y = 25, A = 1, B = [25, 3]
+
+(i) [ [ [ a, b] ]  | c] = [ H | T]
+Yes, H = [[a, b]], T = c
+
+(j) [a(25, b), c(B), B | T] = [X, c(400), D, D]
+Yes, B = 400, T = [400], X = a(25, b), D = 400
+
+(k) oh(MY) = MY
+Yes (somewhat), MY is a variable and thus takes the form of oh(MY), but that means there is infinite recursion, thus it appears as MY = oh(**),
+which some may consider as not being unified.
+
+(l) Ans = 25*4
+Yes, the variable Ans takes the form of the RHS structure, thus Ans = 25*4

@@ -1,0 +1,32 @@
+ 
+3. Unification & Arithmetic.
+What will Prolog’s answers be to the following? Work them out by hand, and verify them in Prolog (or vice versa).
+
+(a) Ans is 25*4.
+Ans = 100
+
+(b) Cat = 5, Dog = 6, Horses is Cat+Dog, Cows = Cat+Dog.
+Cat = 5, Dog = 6, Horses = 11, Cows = 5+6
+
+(c) mazda(RX8, 5) = mazda(rx8, X), Y is X+1
+RX8 = rx8, X = 5, Y = 6
+
+(d) mazda(RX8, Y) = mazda(Z, Z), Y is 1+1.
+RX8 = 2, Y = 2, Z = 2
+
+(e) s(2,3,4) = s(X,Y,Z), Z is X+X, Y is Z+1.
+false, because the query 'Y is Z+1' becomes 3 is 4+1, which is false
+
+(f) s(X,Y,Z) = s(4,3,2), W is X*Z, X is Z+A.
+ERROR: is/2: Arguments are not sufficiently instantiated
+because the query 'X is Z+A' doesn't work since A hasn't been instantiated
+
+(g) [2, X, 3] = [H|T], W is H+25.
+H = 2, T = [X, 3], W = 27
+
+(h) 100 is Z-A, Z is 1000, A = 900.
+ERROR: is/2: Arguments are not sufficiently instantiated
+because the query '100 is Z-A' should be posed after Z and A have been instantiated
+
+(i) Z is 1000, A = 900, 100 is Z-A.
+Z = 1000, A = 900 (works for the reason as explained above)

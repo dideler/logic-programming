@@ -1,0 +1,6 @@
+napkin	1	1
+napkin	1	1
+turpentine	3	2
+tuxedo	15	40
+crown	6	95
+sceptre	12	80

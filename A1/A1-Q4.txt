@@ -1,0 +1,40 @@
+(c) Compose queries to answer the following questions. Also compose a few queries that test your own properties and animals from (b).
+  Is a poodle big?
+	?- big(poodle).
+	false.
+
+  Is a poodle smallish?
+	?- smallish(poodle).
+	true.
+
+  What is a smallish animal?
+	?- smallish(Animal).
+	Animal = poodle ;
+	Animal = cat ;
+	Animal = mouse ;
+	false.
+
+  What is a big animal?
+	?- big(Animal).
+	Animal = elephant ;
+	Animal = whale ;
+	Animal = man ;
+	Animal = ostrich.
+
+  
+  What is a marine animal?
+	?- marine(Animal).
+	Animal = whale ;
+	false.
+  
+  Where does a man live?
+	?- habitat(man,Where).
+	Where = savannah ;
+	Where = jungle.
+  
+  Where does a kwyjibo live? // is this supposed to be whatever animal we created?
+	?- habitat(kwyjibo,Where).
+	Where = north_america.
+
+	?- habitat(ostrich,Where).
+	Where = savannah.

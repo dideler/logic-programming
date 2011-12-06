@@ -1,0 +1,151 @@
+{\rtf1\ansi\ansicpg1252\deff0
+{\fonttbl
+{\f0\fnil\fcharset0\fprq0\fttruetype Times New Roman;}
+{\f1\fnil\fcharset0\fprq0\fttruetype Nimbus Sans L;}
+{\f2\fnil\fcharset0\fprq0\fttruetype Dingbats;}
+{\f3\fnil\fcharset0\fprq0\fttruetype TimesNewRoman,Bold;}
+{\f4\fnil\fcharset0\fprq0\fttruetype New Century Schlbk;}
+{\f5\fnil\fcharset0\fprq0\fttruetype New York;}
+{\f6\fnil\fcharset0\fprq0\fttruetype Symbol;}
+{\f7\fnil\fcharset0\fprq0\fttruetype Courier New;}}
+{\colortbl
+\red0\green0\blue0;
+\red255\green255\blue255;}
+{\stylesheet
+{\s1\fi-427\li720\sbasedon34\snext34Contents 1;}
+{\s2\fi-427\li1440\sbasedon34\snext34Contents 2;}
+{\s9\f3\fs20\lang1033Default;}
+{\s8\fi-427\li720\sbasedon34Lower Roman List;}
+{\s5\tx431\sbasedon30\snext34Numbered Heading 1;}
+{\s6\tx431\sbasedon31\snext34Numbered Heading 2;}
+{\s12\fi-427\li720Diamond List;}
+{\*\cs14\sbasedon34Endnote Text;}
+{\s3\fi-427\li2160\sbasedon34\snext34Contents 3;}
+{\s10\qj\f4\fs20\lang1033\sbasedon34Body Text;}
+{\s4\fi-427\li2880\sbasedon34\snext34Contents 4;}
+{\s7\fi-427\li720Square List;}
+{\s13\fi-427\li720Numbered List;}
+{\*\cs15\fs20\superEndnote Reference;}
+{\s16\tqc\tx4320\tqc\tx8640\f5\fs24\lang1033\sbasedon34Header;}
+{\s24\sa117\f3\fs20\lang1033\sbasedon9\snext9List Continue;}
+{\s18\tx431\sbasedon32\snext34Numbered Heading 3;}
+{\s19\fi-427\li720Dashed List;}
+{\s20\fi-427\li720\sbasedon13Upper Roman List;}
+{\s33\fi-427\li720Tick List;}
+{\s22\fi-427\li720Heart List;}
+{\s40\fi-427\li720Box List;}
+{\*\cs25\fs20Reference;}
+{\s11\tqc\tx4320\tqc\tx8640\f5\fs24\lang1033\sbasedon34Footer;}
+{\s26\fi-427\li720\sbasedon13Upper Case List;}
+{\s27\fi-427\li720Bullet List;}
+{\s28\fi-427\li720Hand List;}
+{\*\cs29\fs20\sbasedon34Footnote Text;}
+{\s30\sb440\sa60\f1\fs34\b\sbasedon34\snext34Heading 1;}
+{\s31\sb440\sa60\f1\fs28\b\sbasedon34\snext34Heading 2;}
+{\s23\qc\sb240\sa117\f1\fs32\b\sbasedon34\snext34Contents Header;}
+{\s21\sb440\sa60\f1\fs24\b\sbasedon34\snext34Heading 4;}
+{\s32\sb440\sa60\f1\fs24\b\sbasedon34\snext34Heading 3;}
+{\s35\fi-427\li720\sbasedon13Lower Case List;}
+{\s36\li1440\ri1440\sa117\sbasedon34Block Text;}
+{\s43\tx1584\sbasedon5\snext34Chapter Heading;}
+{\s42\f7\sbasedon34Plain Text;}
+{\s38\tx1584\sbasedon5\snext34Section Heading;}
+{\s39\fi-427\li720Implies List;}
+{\s34\f0\fs24Normal;}
+{\s41\fi-427\li720Star List;}
+{\*\cs37\fs20\superFootnote Reference;}
+{\s17\fi-427\li720Triangle List;}}
+\kerning0\cf0\ftnbj\fet2\ftnstart1\ftnnar\aftnnar\ftnstart1\aftnstart1\aenddoc\revprop3{\info\uc1}\deftab720\viewkind1\paperw12240\paperh15840\margl1440\margr1440\widowctrl
+\sectd\sbknone\colsx360\margtsxn1080\margbsxn1080\marglsxn1080\margrsxn1080\pgncont\ltrsect
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs24\lang4105{\*\listtag0}\abinodiroverride\ltrch Cosc 2P93: Prolog}{\s34\f0\fs24\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs24\lang4105{\*\listtag0}\abinodiroverride\ltrch Assignment #2}{\s34\f0\fs24\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs24\lang4105{\*\listtag0}\abinodiroverride\ltrch Due date: February 16}{\s34\f0\fs24\super\lang4105{\*\listtag0}th}{\s34\f0\fs24\lang4105{\*\listtag0}, 2010 (in class!)}{\s34\f0\fs24\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs24\lang4105{\*\listtag0}\abinodiroverride\ltrch Late date: February 18}{\s34\f0\fs24\super\lang4105{\*\listtag0}th}{\s34\f0\fs24\lang4105{\*\listtag0}, 2010 (in class!), 15% penalty applies}{\s34\f0\fs24\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs24\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 1. }{\s34\f0\fs22\b\ul\lang1033{\*\listtag0}Fun with Lists.}{\s34\f0\fs22\b\lang1033{\*\listtag0} }{\s34\f0\fs22\lang1033{\*\listtag0}Write Prolog predicates that do the following:}{\s34\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch a) count(L,N): This counts the number of items in list L, which is N.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab ?- count([1,2,3,4,5],N).}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab N = 4.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch b) tally(L,Q,N): This counts the number of instances of Q in list L, which is N.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab ?- tally([a,b,c,b,a],b,N).}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab N = 2.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch c) removeItem(A,L,M): This removes item A from list L, resulting in list M. Backtracking removes subsequent instances of A from L.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab ?- removeItem(b,[a,b,c,b,a],M).}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab M = [a,c,b,a];}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab M = [a,b,c,a];}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab false.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\i\lang1033{\*\listtag0}\abinodiroverride\ltrch note:}{\s34\f0\fs22\lang1033{\*\listtag0} Notice that the first 'b' to be removed is present in the second answer. That is required behaviour. This is a tricky one, so you may wish to do it last.}{\s34\f0\fs22\i\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch d) removeAll(A,L,M): This removes all instances of A from list L, resulting in M.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab ?- removeAll(b,[a,b,c,b,a],M).}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab M = [a,c,a].}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch e) removeGen(Type,A,L,M) will act like removeItem/3 if Type=one, and removeAll/3 if Type=all. If Type is neither, then it does nothing and fails.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch f) writeList(L): This takes a list L, and writes each item on a new line on the terminal, with the count of that item at the start of the line.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab ?- writeList([howdy,there,folks]).}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab 1 howdy}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab 2 there}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab 3 folks}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \page }{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 2. }{\s34\f0\fs22\b\ul\lang1033{\*\listtag0}Six Degrees of }{\s34\f0\fs22\b\ul\strike\lang1033{\*\listtag0}Kevin Bacon}{\s34\f0\fs22\b\ul\lang1033{\*\listtag0}Bruce Campbell.}{\s34\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Bruce Campbell is the greatest actor that has ever lived, but obviously this is not news. Owing to the fact that Sam Raimi has included Campbell in many (most) of his projects in some form or another, Campbell has worked with quite a few people in movies and on television. As such, a great many actors/actresses can be connected to Bruce Campbell in 6 or less 'degrees'.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch For reference, Campbell himself is the zeroth degree. Anyone who has worked with him directly is separated by one degree. Those who worked with those who worked with Campbell are separated by two degrees, etc.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Your task is to implement a predicate }{\s34\f0\fs22\i\lang1033{\*\listtag0}check(A)}{\s34\f0\fs22\lang1033{\*\listtag0}, that will determine whether or not a given actor/actress (A) is within six degrees of separation from Campbell, and also list the connections (ie. the common works between the link in the chain).}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch eg.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab ?- check(ewan_mcgregor).}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab bruce_campbell was in dark_man with liam_neeson}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab liam_neeson was in star_wars with ewan_mcgregor}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab true.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab ?- check(ronald_mcmadeupname).}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab false.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Note: It doesn't matter if it says that Campbell worked with Lawless, who worked with Campbell, who worked with Lawless, who worked with Hannah (or other such inefficient cycles), so long as it's still within six degrees.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Refer to the last page for a list of sample starring performances, but you'll need to fill in more!}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Make sure you include queries for actors who aren't listed at all, as well as for actors who are simply more than six degrees away (you'll probably have to add entries for this)}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch 3. }{\s34\f0\fs22\b\ul\lang1033{\*\listtag0}Calculating Your Campbell Number.}{\s34\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch This is mostly an extension of #2. It is recommended that you complete that one first.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Suppose you wanted to know the }{\s34\f0\fs22\i\lang1033{\*\listtag0}Campbell Number}{\s34\f0\fs22\lang1033{\*\listtag0} of an actor or actress. The }{\s34\f0\fs22\i\lang1033{\*\listtag0}Campbell Number}{\s34\f0\fs22\lang1033{\*\listtag0} is simply the }{\s34\f0\fs22\i\lang1033{\*\listtag0}minimum}{\s34\f0\fs22\lang1033{\*\listtag0} degrees of separation between Campbell and a given actor/actress.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Your task will be to create a Prolog program that includes the predicate }{\s34\f0\fs22\i\lang1033{\*\listtag0}campbellNumber(A)}{\s34\f0\fs22\lang1033{\*\listtag0}, which determines the minimum degrees of separation from Bruce Campbell, }{\s34\f0\fs22\i\lang1033{\*\listtag0}A}{\s34\f0\fs22\lang1033{\*\listtag0}.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab ?- campbellNumber(kwyjibo).}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab kwyjibo has no Campbell Number.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab ?- campbellNumber(brendan_fraser).}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch \tab brendan_frasier has a Campbell Number of 3.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Remember, unlike with #2, there is only one correct solution for a given query here.}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\b\lang1033{\*\listtag0}\abinodiroverride\ltrch Important:}{\s34\f0\fs22\lang1033{\*\listtag0} If you don't have a Campbell Number of 6 or less, you don't matter, and thus have none at all!}{\s34\f0\fs22\b\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Refer to the last page for a list of sample starring performances, but you'll need to fill in more!}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\abinodiroverride\ltrch Make sure you include queries for actors who aren't listed at all, as well as for actors who are simply more than six degrees away (you'll probably have to add entries for this)}{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang1033{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\b\lang4105{\*\listtag0}\abinodiroverride\ltrch Submission Guidelines:}{\s34\f0\fs22\b\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch Print out all of your prolog code and include a sample of running any relevant queries.}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch (When queries are explicitly mentioned above, use those. Otherwise, include whatever is necessary to basically demonstrate your code. When deciding how many examples are necessary, remember this: Be nice to the marker, and he will be nice to you. Do not provoke the RoboFlack.)}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch Electronic submission is required. Slap your files into a dedicated directory on sandcastle, ssh (or putty) in, and run 'submit2p93'.}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch A cover page (with barcode) is still necessary.}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\b\lang4105{\*\listtag0}\abinodiroverride\ltrch Credit:}{\s34\f0\fs22\lang4105{\*\listtag0} Elements of this assignment are shamelessly stolen (more or less) from Brian Ross. Mwahaha.}{\s34\f0\fs22\b\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch \page }{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch Starring performances:}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch bruce_campbell army_of_darkness}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch bruce_campbell evil_dead}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch bruce_campbell xena}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch bruce_campbell darkman}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch lucy_lawless xena}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch liam_neeson darkman}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch liam_neeson star_wars}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch ewan_mcgregor star_wars}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch lucy_lawless spartacus}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch john_hannah spartacus}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch john_hannah the_mummy}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch brendan_fraser the_mummy}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch brendan_fraser journey_earth}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch seth_meyers journey_earth}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch seth_meyers snl}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch amy_poehler snl}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch tina_fey snl}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch mike_meyers snl}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch amy_poehler baby_mama}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch tina_fey baby_mama}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch mike_meyers austin_powers}{\s34\f0\fs22\lang4105{\*\listtag0}\par}
+\pard\plain\ltrpar\ql\s34\sl240\slmult1\itap0{\s34\f0\fs22\lang4105{\*\listtag0}\abinodiroverride\ltrch heather_graham austin_powers}{\s34\f0\fs22\lang4105{\*\listtag0}\par}}
